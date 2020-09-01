@@ -1,6 +1,3 @@
-# Pycharm config
-02-naive-bayes/.idea/
-
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
@@ -126,4 +123,8 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
-02-naive-bayes/mnist.p
+
+# Pycharm config
+02-naive-bayes/.idea/
+
+# Others

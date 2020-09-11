@@ -1,0 +1,641 @@
+max_df,min_df,filts,vectorizer,model,score
+0.05,1,tok,CountVectorizer,MultinomialNB,0.8280890931589181
+0.05,1,tok,CountVectorizer,BernoulliNB,0.6028813858935832
+0.05,1,tok,TfidfVectorizer,MultinomialNB,0.8845677921159625
+0.05,1,tok,TfidfVectorizer,BernoulliNB,0.6028813858935832
+0.05,2,tok,CountVectorizer,MultinomialNB,0.8285310235106947
+0.05,2,tok,CountVectorizer,BernoulliNB,0.6438041364680926
+0.05,2,tok,TfidfVectorizer,MultinomialNB,0.8796181721760651
+0.05,2,tok,TfidfVectorizer,BernoulliNB,0.6438041364680926
+0.05,5,tok,CountVectorizer,MultinomialNB,0.8101467208767898
+0.05,5,tok,CountVectorizer,BernoulliNB,0.6659890401272759
+0.05,5,tok,TfidfVectorizer,MultinomialNB,0.8656531730599257
+0.05,5,tok,TfidfVectorizer,BernoulliNB,0.6659890401272759
+0.05,10,tok,CountVectorizer,MultinomialNB,0.7864592540215662
+0.05,10,tok,CountVectorizer,BernoulliNB,0.6783630899770197
+0.05,10,tok,TfidfVectorizer,MultinomialNB,0.8485062754109952
+0.05,10,tok,TfidfVectorizer,BernoulliNB,0.6783630899770197
+0.1,1,tok,CountVectorizer,MultinomialNB,0.8158918154498851
+0.1,1,tok,CountVectorizer,BernoulliNB,0.6045607212303341
+0.1,1,tok,TfidfVectorizer,MultinomialNB,0.8715750397737316
+0.1,1,tok,TfidfVectorizer,BernoulliNB,0.6045607212303341
+0.1,2,tok,CountVectorizer,MultinomialNB,0.8211949796712038
+0.1,2,tok,CountVectorizer,BernoulliNB,0.6415944847092099
+0.1,2,tok,TfidfVectorizer,MultinomialNB,0.8692770019444935
+0.1,2,tok,TfidfVectorizer,BernoulliNB,0.6415944847092099
+0.1,5,tok,CountVectorizer,MultinomialNB,0.8044900123740498
+0.1,5,tok,CountVectorizer,BernoulliNB,0.6651935654940782
+0.1,5,tok,TfidfVectorizer,MultinomialNB,0.8569913381651052
+0.1,5,tok,TfidfVectorizer,BernoulliNB,0.6651935654940782
+0.1,10,tok,CountVectorizer,MultinomialNB,0.7840728301219728
+0.1,10,tok,CountVectorizer,BernoulliNB,0.6741205585999647
+0.1,10,tok,TfidfVectorizer,MultinomialNB,0.8424076365564787
+0.1,10,tok,TfidfVectorizer,BernoulliNB,0.6741205585999647
+0.25,1,tok,CountVectorizer,MultinomialNB,0.7972423546049142
+0.25,1,tok,CountVectorizer,BernoulliNB,0.6015555948382535
+0.25,1,tok,TfidfVectorizer,MultinomialNB,0.852395262506629
+0.25,1,tok,TfidfVectorizer,BernoulliNB,0.6015555948382535
+0.25,2,tok,CountVectorizer,MultinomialNB,0.8111189676506982
+0.25,2,tok,CountVectorizer,BernoulliNB,0.6375287254728654
+0.25,2,tok,TfidfVectorizer,MultinomialNB,0.8523068764362737
+0.25,2,tok,TfidfVectorizer,BernoulliNB,0.6375287254728654
+0.25,5,tok,CountVectorizer,MultinomialNB,0.798302987449178
+0.25,5,tok,CountVectorizer,BernoulliNB,0.6578575216545872
+0.25,5,tok,TfidfVectorizer,MultinomialNB,0.842496022626834
+0.25,5,tok,TfidfVectorizer,BernoulliNB,0.6578575216545872
+0.25,10,tok,CountVectorizer,MultinomialNB,0.775941311649284
+0.25,10,tok,CountVectorizer,BernoulliNB,0.66572388191621
+0.25,10,tok,TfidfVectorizer,MultinomialNB,0.830298744917801
+0.25,10,tok,TfidfVectorizer,BernoulliNB,0.66572388191621
+0.3,1,tok,CountVectorizer,MultinomialNB,0.7878734311472512
+0.3,1,tok,CountVectorizer,BernoulliNB,0.6018207530493195
+0.3,1,tok,TfidfVectorizer,MultinomialNB,0.8445289022450062
+0.3,1,tok,TfidfVectorizer,BernoulliNB,0.6018207530493195
+0.3,2,tok,CountVectorizer,MultinomialNB,0.8068764362736432
+0.3,2,tok,CountVectorizer,BernoulliNB,0.635142301573272
+0.3,2,tok,TfidfVectorizer,MultinomialNB,0.8441753579635849
+0.3,2,tok,TfidfVectorizer,BernoulliNB,0.635142301573272
+0.3,5,tok,CountVectorizer,MultinomialNB,0.794060456072123
+0.3,5,tok,CountVectorizer,BernoulliNB,0.6555594838253491
+0.3,5,tok,TfidfVectorizer,MultinomialNB,0.8369277001944494
+0.3,5,tok,TfidfVectorizer,BernoulliNB,0.6555594838253491
+0.3,10,tok,CountVectorizer,MultinomialNB,0.7716103942018738
+0.3,10,tok,CountVectorizer,BernoulliNB,0.664309704790525
+0.3,10,tok,TfidfVectorizer,MultinomialNB,0.8262329856814566
+0.3,10,tok,TfidfVectorizer,BernoulliNB,0.664309704790525
+0.5,1,tok,CountVectorizer,MultinomialNB,0.7707265334983207
+0.5,1,tok,CountVectorizer,BernoulliNB,0.5988156266572389
+0.5,1,tok,TfidfVectorizer,MultinomialNB,0.8294148842142478
+0.5,1,tok,TfidfVectorizer,BernoulliNB,0.5988156266572389
+0.5,2,tok,CountVectorizer,MultinomialNB,0.7996287785045076
+0.5,2,tok,CountVectorizer,BernoulliNB,0.633993282658653
+0.5,2,tok,TfidfVectorizer,MultinomialNB,0.8319780802545519
+0.5,2,tok,TfidfVectorizer,BernoulliNB,0.633993282658653
+0.5,5,tok,CountVectorizer,MultinomialNB,0.7885805197100937
+0.5,5,tok,CountVectorizer,BernoulliNB,0.6520240410111366
+0.5,5,tok,TfidfVectorizer,MultinomialNB,0.8277355488774969
+0.5,5,tok,TfidfVectorizer,BernoulliNB,0.6520240410111366
+0.5,10,tok,CountVectorizer,MultinomialNB,0.7694891285133463
+0.5,10,tok,CountVectorizer,BernoulliNB,0.6590065405692063
+0.5,10,tok,TfidfVectorizer,MultinomialNB,0.8181898532791232
+0.5,10,tok,TfidfVectorizer,BernoulliNB,0.6590065405692063
+0.75,1,tok,CountVectorizer,MultinomialNB,0.7516351423015732
+0.75,1,tok,CountVectorizer,BernoulliNB,0.5990807848683047
+0.75,1,tok,TfidfVectorizer,MultinomialNB,0.8159802015202404
+0.75,1,tok,TfidfVectorizer,BernoulliNB,0.5990807848683047
+0.75,2,tok,CountVectorizer,MultinomialNB,0.7943256142831889
+0.75,2,tok,CountVectorizer,BernoulliNB,0.6340816687290083
+0.75,2,tok,TfidfVectorizer,MultinomialNB,0.8184550114901892
+0.75,2,tok,TfidfVectorizer,BernoulliNB,0.6340816687290083
+0.75,5,tok,CountVectorizer,MultinomialNB,0.784426374403394
+0.75,5,tok,CountVectorizer,BernoulliNB,0.6502563196040304
+0.75,5,tok,TfidfVectorizer,MultinomialNB,0.8183666254198338
+0.75,5,tok,TfidfVectorizer,BernoulliNB,0.6502563196040304
+0.75,10,tok,CountVectorizer,MultinomialNB,0.7663956160509103
+0.75,10,tok,CountVectorizer,BernoulliNB,0.6574155913028107
+0.75,10,tok,TfidfVectorizer,MultinomialNB,0.8111189676506982
+0.75,10,tok,TfidfVectorizer,BernoulliNB,0.6574155913028107
+0.8,1,tok,CountVectorizer,MultinomialNB,0.7516351423015732
+0.8,1,tok,CountVectorizer,BernoulliNB,0.5990807848683047
+0.8,1,tok,TfidfVectorizer,MultinomialNB,0.8159802015202404
+0.8,1,tok,TfidfVectorizer,BernoulliNB,0.5990807848683047
+0.8,2,tok,CountVectorizer,MultinomialNB,0.7943256142831889
+0.8,2,tok,CountVectorizer,BernoulliNB,0.6340816687290083
+0.8,2,tok,TfidfVectorizer,MultinomialNB,0.8184550114901892
+0.8,2,tok,TfidfVectorizer,BernoulliNB,0.6340816687290083
+0.8,5,tok,CountVectorizer,MultinomialNB,0.784426374403394
+0.8,5,tok,CountVectorizer,BernoulliNB,0.6502563196040304
+0.8,5,tok,TfidfVectorizer,MultinomialNB,0.8183666254198338
+0.8,5,tok,TfidfVectorizer,BernoulliNB,0.6502563196040304
+0.8,10,tok,CountVectorizer,MultinomialNB,0.7663956160509103
+0.8,10,tok,CountVectorizer,BernoulliNB,0.6574155913028107
+0.8,10,tok,TfidfVectorizer,MultinomialNB,0.8111189676506982
+0.8,10,tok,TfidfVectorizer,BernoulliNB,0.6574155913028107
+0.95,1,tok,CountVectorizer,MultinomialNB,0.7451829591656355
+0.95,1,tok,CountVectorizer,BernoulliNB,0.5982853102351069
+0.95,1,tok,TfidfVectorizer,MultinomialNB,0.8115608980024748
+0.95,1,tok,TfidfVectorizer,BernoulliNB,0.5982853102351069
+0.95,2,tok,CountVectorizer,MultinomialNB,0.7928230510871487
+0.95,2,tok,CountVectorizer,BernoulliNB,0.6337281244475871
+0.95,2,tok,TfidfVectorizer,MultinomialNB,0.8160685875905958
+0.95,2,tok,TfidfVectorizer,BernoulliNB,0.6337281244475871
+0.95,5,tok,CountVectorizer,MultinomialNB,0.7843379883330387
+0.95,5,tok,CountVectorizer,BernoulliNB,0.6504330917447411
+0.95,5,tok,TfidfVectorizer,MultinomialNB,0.8158034293795298
+0.95,5,tok,TfidfVectorizer,BernoulliNB,0.6504330917447411
+0.95,10,tok,CountVectorizer,MultinomialNB,0.7660420717694891
+0.95,10,tok,CountVectorizer,BernoulliNB,0.6567968888103235
+0.95,10,tok,TfidfVectorizer,MultinomialNB,0.8087325437511048
+0.95,10,tok,TfidfVectorizer,BernoulliNB,0.6567968888103235
+0.05,1,tok lem stem,CountVectorizer,MultinomialNB,0.806522891992222
+0.05,1,tok lem stem,CountVectorizer,BernoulliNB,0.6016439809086088
+0.05,1,tok lem stem,TfidfVectorizer,MultinomialNB,0.8670673501856108
+0.05,1,tok lem stem,TfidfVectorizer,BernoulliNB,0.6016439809086088
+0.05,2,tok lem stem,CountVectorizer,MultinomialNB,0.8066112780625774
+0.05,2,tok lem stem,CountVectorizer,BernoulliNB,0.6423899593424076
+0.05,2,tok lem stem,TfidfVectorizer,MultinomialNB,0.8624712745271346
+0.05,2,tok lem stem,TfidfVectorizer,BernoulliNB,0.6423899593424076
+0.05,5,tok lem stem,CountVectorizer,MultinomialNB,0.7915856461021743
+0.05,5,tok lem stem,CountVectorizer,BernoulliNB,0.657503977373166
+0.05,5,tok lem stem,TfidfVectorizer,MultinomialNB,0.8484178893406399
+0.05,5,tok lem stem,TfidfVectorizer,BernoulliNB,0.657503977373166
+0.05,10,tok lem stem,CountVectorizer,MultinomialNB,0.7701962170761888
+0.05,10,tok lem stem,CountVectorizer,BernoulliNB,0.6669612869011844
+0.05,10,tok lem stem,TfidfVectorizer,MultinomialNB,0.8326851688173944
+0.05,10,tok lem stem,TfidfVectorizer,BernoulliNB,0.6669612869011844
+0.1,1,tok lem stem,CountVectorizer,MultinomialNB,0.7916740321725296
+0.1,1,tok lem stem,CountVectorizer,BernoulliNB,0.6004949619939898
+0.1,1,tok lem stem,TfidfVectorizer,MultinomialNB,0.8531023510694714
+0.1,1,tok lem stem,TfidfVectorizer,BernoulliNB,0.6004949619939898
+0.1,2,tok lem stem,CountVectorizer,MultinomialNB,0.8002474809969948
+0.1,2,tok lem stem,CountVectorizer,BernoulliNB,0.6380590418949974
+0.1,2,tok lem stem,TfidfVectorizer,MultinomialNB,0.8479759589888634
+0.1,2,tok lem stem,TfidfVectorizer,BernoulliNB,0.6380590418949974
+0.1,5,tok lem stem,CountVectorizer,MultinomialNB,0.7862824818808556
+0.1,5,tok lem stem,CountVectorizer,BernoulliNB,0.6514937245890048
+0.1,5,tok lem stem,TfidfVectorizer,MultinomialNB,0.8387838076719109
+0.1,5,tok lem stem,TfidfVectorizer,BernoulliNB,0.6514937245890048
+0.1,10,tok lem stem,CountVectorizer,MultinomialNB,0.7660420717694891
+0.1,10,tok lem stem,CountVectorizer,BernoulliNB,0.6632490719462613
+0.1,10,tok lem stem,TfidfVectorizer,MultinomialNB,0.8248188085557716
+0.1,10,tok lem stem,TfidfVectorizer,BernoulliNB,0.6632490719462613
+0.25,1,tok lem stem,CountVectorizer,MultinomialNB,0.7726710270461375
+0.25,1,tok lem stem,CountVectorizer,BernoulliNB,0.5979317659536857
+0.25,1,tok lem stem,TfidfVectorizer,MultinomialNB,0.8329503270284603
+0.25,1,tok lem stem,TfidfVectorizer,BernoulliNB,0.5979317659536857
+0.25,2,tok lem stem,CountVectorizer,MultinomialNB,0.7937952978610571
+0.25,2,tok lem stem,CountVectorizer,BernoulliNB,0.6295739791408874
+0.25,2,tok lem stem,TfidfVectorizer,MultinomialNB,0.8325967827470391
+0.25,2,tok lem stem,TfidfVectorizer,BernoulliNB,0.6295739791408874
+0.25,5,tok lem stem,CountVectorizer,MultinomialNB,0.7777974191267456
+0.25,5,tok lem stem,CountVectorizer,BernoulliNB,0.6433622061163161
+0.25,5,tok lem stem,TfidfVectorizer,MultinomialNB,0.8265865299628778
+0.25,5,tok lem stem,TfidfVectorizer,BernoulliNB,0.6433622061163161
+0.25,10,tok lem stem,CountVectorizer,MultinomialNB,0.7596782747039067
+0.25,10,tok lem stem,CountVectorizer,BernoulliNB,0.6513169524482941
+0.25,10,tok lem stem,TfidfVectorizer,MultinomialNB,0.8162453597313063
+0.25,10,tok lem stem,TfidfVectorizer,BernoulliNB,0.6513169524482941
+0.3,1,tok lem stem,CountVectorizer,MultinomialNB,0.7660420717694891
+0.3,1,tok lem stem,CountVectorizer,BernoulliNB,0.598020152024041
+0.3,1,tok lem stem,TfidfVectorizer,MultinomialNB,0.8259678274703907
+0.3,1,tok lem stem,TfidfVectorizer,BernoulliNB,0.598020152024041
+0.3,2,tok lem stem,CountVectorizer,MultinomialNB,0.790083082906134
+0.3,2,tok lem stem,CountVectorizer,BernoulliNB,0.6319604030404808
+0.3,2,tok lem stem,TfidfVectorizer,MultinomialNB,0.8257026692593248
+0.3,2,tok lem stem,TfidfVectorizer,BernoulliNB,0.6319604030404808
+0.3,5,tok lem stem,CountVectorizer,MultinomialNB,0.7761180837899947
+0.3,5,tok lem stem,CountVectorizer,BernoulliNB,0.6427435036238289
+0.3,5,tok lem stem,TfidfVectorizer,MultinomialNB,0.822078840374757
+0.3,5,tok lem stem,TfidfVectorizer,BernoulliNB,0.6427435036238289
+0.3,10,tok lem stem,CountVectorizer,MultinomialNB,0.7586176418596429
+0.3,10,tok lem stem,CountVectorizer,BernoulliNB,0.6516704967297154
+0.3,10,tok lem stem,TfidfVectorizer,MultinomialNB,0.8127983029874492
+0.3,10,tok lem stem,TfidfVectorizer,BernoulliNB,0.6516704967297154
+0.5,1,tok lem stem,CountVectorizer,MultinomialNB,0.7549938129750752
+0.5,1,tok lem stem,CountVectorizer,BernoulliNB,0.5957221141948029
+0.5,1,tok lem stem,TfidfVectorizer,MultinomialNB,0.8157150433091744
+0.5,1,tok lem stem,TfidfVectorizer,BernoulliNB,0.5957221141948029
+0.5,2,tok lem stem,CountVectorizer,MultinomialNB,0.7851334629662365
+0.5,2,tok lem stem,CountVectorizer,BernoulliNB,0.6284249602262684
+0.5,2,tok lem stem,TfidfVectorizer,MultinomialNB,0.8194272582640976
+0.5,2,tok lem stem,TfidfVectorizer,BernoulliNB,0.6284249602262684
+0.5,5,tok lem stem,CountVectorizer,MultinomialNB,0.7744387484532438
+0.5,5,tok lem stem,CountVectorizer,BernoulliNB,0.6416828707795651
+0.5,5,tok lem stem,TfidfVectorizer,MultinomialNB,0.8159802015202404
+0.5,5,tok lem stem,TfidfVectorizer,BernoulliNB,0.6416828707795651
+0.5,10,tok lem stem,CountVectorizer,MultinomialNB,0.755524129397207
+0.5,10,tok lem stem,CountVectorizer,BernoulliNB,0.6496376171115432
+0.5,10,tok lem stem,TfidfVectorizer,MultinomialNB,0.8066996641329327
+0.5,10,tok lem stem,TfidfVectorizer,BernoulliNB,0.6496376171115432
+0.75,1,tok lem stem,CountVectorizer,MultinomialNB,0.7341347003712215
+0.75,1,tok lem stem,CountVectorizer,BernoulliNB,0.5945730952801839
+0.75,1,tok lem stem,TfidfVectorizer,MultinomialNB,0.8021035884744564
+0.75,1,tok lem stem,TfidfVectorizer,BernoulliNB,0.5945730952801839
+0.75,2,tok lem stem,CountVectorizer,MultinomialNB,0.7778858051971009
+0.75,2,tok lem stem,CountVectorizer,BernoulliNB,0.6275410995227152
+0.75,2,tok lem stem,TfidfVectorizer,MultinomialNB,0.8064345059218667
+0.75,2,tok lem stem,TfidfVectorizer,BernoulliNB,0.6275410995227152
+0.75,5,tok lem stem,CountVectorizer,MultinomialNB,0.7697542867244123
+0.75,5,tok lem stem,CountVectorizer,BernoulliNB,0.6400035354428142
+0.75,5,tok lem stem,TfidfVectorizer,MultinomialNB,0.8080254551882623
+0.75,5,tok lem stem,TfidfVectorizer,BernoulliNB,0.6400035354428142
+0.75,10,tok lem stem,CountVectorizer,MultinomialNB,0.7537564079901008
+0.75,10,tok lem stem,CountVectorizer,BernoulliNB,0.6462789464380414
+0.75,10,tok lem stem,TfidfVectorizer,MultinomialNB,0.8006010252784161
+0.75,10,tok lem stem,TfidfVectorizer,BernoulliNB,0.6462789464380414
+0.8,1,tok lem stem,CountVectorizer,MultinomialNB,0.7341347003712215
+0.8,1,tok lem stem,CountVectorizer,BernoulliNB,0.5945730952801839
+0.8,1,tok lem stem,TfidfVectorizer,MultinomialNB,0.8021035884744564
+0.8,1,tok lem stem,TfidfVectorizer,BernoulliNB,0.5945730952801839
+0.8,2,tok lem stem,CountVectorizer,MultinomialNB,0.7778858051971009
+0.8,2,tok lem stem,CountVectorizer,BernoulliNB,0.6275410995227152
+0.8,2,tok lem stem,TfidfVectorizer,MultinomialNB,0.8064345059218667
+0.8,2,tok lem stem,TfidfVectorizer,BernoulliNB,0.6275410995227152
+0.8,5,tok lem stem,CountVectorizer,MultinomialNB,0.7697542867244123
+0.8,5,tok lem stem,CountVectorizer,BernoulliNB,0.6400035354428142
+0.8,5,tok lem stem,TfidfVectorizer,MultinomialNB,0.8080254551882623
+0.8,5,tok lem stem,TfidfVectorizer,BernoulliNB,0.6400035354428142
+0.8,10,tok lem stem,CountVectorizer,MultinomialNB,0.7537564079901008
+0.8,10,tok lem stem,CountVectorizer,BernoulliNB,0.6462789464380414
+0.8,10,tok lem stem,TfidfVectorizer,MultinomialNB,0.8006010252784161
+0.8,10,tok lem stem,TfidfVectorizer,BernoulliNB,0.6462789464380414
+0.95,1,tok lem stem,CountVectorizer,MultinomialNB,0.7235283719285841
+0.95,1,tok lem stem,CountVectorizer,BernoulliNB,0.5943079370691179
+0.95,1,tok lem stem,TfidfVectorizer,MultinomialNB,0.7937069117907017
+0.95,1,tok lem stem,TfidfVectorizer,BernoulliNB,0.5943079370691179
+0.95,2,tok lem stem,CountVectorizer,MultinomialNB,0.7767367862824819
+0.95,2,tok lem stem,CountVectorizer,BernoulliNB,0.6286017323669789
+0.95,2,tok lem stem,TfidfVectorizer,MultinomialNB,0.8014848859819692
+0.95,2,tok lem stem,TfidfVectorizer,BernoulliNB,0.6286017323669789
+0.95,5,tok lem stem,CountVectorizer,MultinomialNB,0.769400742442991
+0.95,5,tok lem stem,CountVectorizer,BernoulliNB,0.6388545165281951
+0.95,5,tok lem stem,TfidfVectorizer,MultinomialNB,0.8037829238112073
+0.95,5,tok lem stem,TfidfVectorizer,BernoulliNB,0.6388545165281951
+0.95,10,tok lem stem,CountVectorizer,MultinomialNB,0.7526073890754817
+0.95,10,tok lem stem,CountVectorizer,BernoulliNB,0.6461021742973307
+0.95,10,tok lem stem,TfidfVectorizer,MultinomialNB,0.7969771963938483
+0.95,10,tok lem stem,TfidfVectorizer,BernoulliNB,0.6461021742973307
+0.05,1,tok stop,CountVectorizer,MultinomialNB,0.8281774792292734
+0.05,1,tok stop,CountVectorizer,BernoulliNB,0.6023510694714513
+0.05,1,tok stop,TfidfVectorizer,MultinomialNB,0.8844794060456073
+0.05,1,tok stop,TfidfVectorizer,BernoulliNB,0.6023510694714513
+0.05,2,tok stop,CountVectorizer,MultinomialNB,0.8287961817217606
+0.05,2,tok stop,CountVectorizer,BernoulliNB,0.6435389782570267
+0.05,2,tok stop,TfidfVectorizer,MultinomialNB,0.8797065582464204
+0.05,2,tok stop,TfidfVectorizer,BernoulliNB,0.6435389782570267
+0.05,5,tok stop,CountVectorizer,MultinomialNB,0.810765423369277
+0.05,5,tok stop,CountVectorizer,BernoulliNB,0.6655471097754994
+0.05,5,tok stop,TfidfVectorizer,MultinomialNB,0.8666254198338342
+0.05,5,tok stop,TfidfVectorizer,BernoulliNB,0.6655471097754994
+0.05,10,tok stop,CountVectorizer,MultinomialNB,0.7861940958105003
+0.05,10,tok stop,CountVectorizer,BernoulliNB,0.6760650521477816
+0.05,10,tok stop,TfidfVectorizer,MultinomialNB,0.8495669082552589
+0.05,10,tok stop,TfidfVectorizer,BernoulliNB,0.6760650521477816
+0.1,1,tok stop,CountVectorizer,MultinomialNB,0.8144776383242001
+0.1,1,tok stop,CountVectorizer,BernoulliNB,0.6039420187378469
+0.1,1,tok stop,TfidfVectorizer,MultinomialNB,0.873077602969772
+0.1,1,tok stop,TfidfVectorizer,BernoulliNB,0.6039420187378469
+0.1,2,tok stop,CountVectorizer,MultinomialNB,0.8209298214601379
+0.1,2,tok stop,CountVectorizer,BernoulliNB,0.6423015732720523
+0.1,2,tok stop,TfidfVectorizer,MultinomialNB,0.8706911790701786
+0.1,2,tok stop,TfidfVectorizer,BernoulliNB,0.6423015732720523
+0.1,5,tok stop,CountVectorizer,MultinomialNB,0.8047551705851158
+0.1,5,tok stop,CountVectorizer,BernoulliNB,0.6638677744387484
+0.1,5,tok stop,TfidfVectorizer,MultinomialNB,0.8582287431500796
+0.1,5,tok stop,TfidfVectorizer,BernoulliNB,0.6638677744387484
+0.1,10,tok stop,CountVectorizer,MultinomialNB,0.7833657415591303
+0.1,10,tok stop,CountVectorizer,BernoulliNB,0.6724412232632138
+0.1,10,tok stop,TfidfVectorizer,MultinomialNB,0.8440869718932297
+0.1,10,tok stop,TfidfVectorizer,BernoulliNB,0.6724412232632138
+0.25,1,tok stop,CountVectorizer,MultinomialNB,0.8087325437511048
+0.25,1,tok stop,CountVectorizer,BernoulliNB,0.6014672087678982
+0.25,1,tok stop,TfidfVectorizer,MultinomialNB,0.8679512108891638
+0.25,1,tok stop,TfidfVectorizer,BernoulliNB,0.6014672087678982
+0.25,2,tok stop,CountVectorizer,MultinomialNB,0.8158034293795298
+0.25,2,tok stop,CountVectorizer,BernoulliNB,0.6407106240056567
+0.25,2,tok stop,TfidfVectorizer,MultinomialNB,0.8652112427081492
+0.25,2,tok stop,TfidfVectorizer,BernoulliNB,0.6407106240056567
+0.25,5,tok stop,CountVectorizer,MultinomialNB,0.801131341700548
+0.25,5,tok stop,CountVectorizer,BernoulliNB,0.6596252430616935
+0.25,5,tok stop,TfidfVectorizer,MultinomialNB,0.8545165281951564
+0.25,5,tok stop,TfidfVectorizer,BernoulliNB,0.6596252430616935
+0.25,10,tok stop,CountVectorizer,MultinomialNB,0.7808909315891815
+0.25,10,tok stop,CountVectorizer,BernoulliNB,0.6675799893936716
+0.25,10,tok stop,TfidfVectorizer,MultinomialNB,0.8406399151493724
+0.25,10,tok stop,TfidfVectorizer,BernoulliNB,0.6675799893936716
+0.3,1,tok stop,CountVectorizer,MultinomialNB,0.8060809616404455
+0.3,1,tok stop,CountVectorizer,BernoulliNB,0.6018207530493195
+0.3,1,tok stop,TfidfVectorizer,MultinomialNB,0.8659183312709917
+0.3,1,tok stop,TfidfVectorizer,BernoulliNB,0.6018207530493195
+0.3,2,tok stop,CountVectorizer,MultinomialNB,0.8155382711684639
+0.3,2,tok stop,CountVectorizer,BernoulliNB,0.6400919215131695
+0.3,2,tok stop,TfidfVectorizer,MultinomialNB,0.8633551352306876
+0.3,2,tok stop,TfidfVectorizer,BernoulliNB,0.6400919215131695
+0.3,5,tok stop,CountVectorizer,MultinomialNB,0.8006010252784161
+0.3,5,tok stop,CountVectorizer,BernoulliNB,0.6598904012727594
+0.3,5,tok stop,TfidfVectorizer,MultinomialNB,0.8536326674916033
+0.3,5,tok stop,TfidfVectorizer,BernoulliNB,0.6598904012727594
+0.3,10,tok stop,CountVectorizer,MultinomialNB,0.7811560898002475
+0.3,10,tok stop,CountVectorizer,BernoulliNB,0.6674032172529609
+0.3,10,tok stop,TfidfVectorizer,MultinomialNB,0.8401095987272406
+0.3,10,tok stop,TfidfVectorizer,BernoulliNB,0.6674032172529609
+0.5,1,tok stop,CountVectorizer,MultinomialNB,0.8058158034293795
+0.5,1,tok stop,CountVectorizer,BernoulliNB,0.6016439809086088
+0.5,1,tok stop,TfidfVectorizer,MultinomialNB,0.8649460844970832
+0.5,1,tok stop,TfidfVectorizer,BernoulliNB,0.6016439809086088
+0.5,2,tok stop,CountVectorizer,MultinomialNB,0.8153614990277532
+0.5,2,tok stop,CountVectorizer,BernoulliNB,0.6399151493724589
+0.5,2,tok stop,TfidfVectorizer,MultinomialNB,0.8629132048789111
+0.5,2,tok stop,TfidfVectorizer,BernoulliNB,0.6399151493724589
+0.5,5,tok stop,CountVectorizer,MultinomialNB,0.8005126392080608
+0.5,5,tok stop,CountVectorizer,BernoulliNB,0.6601555594838253
+0.5,5,tok stop,TfidfVectorizer,MultinomialNB,0.8534558953508927
+0.5,5,tok stop,TfidfVectorizer,BernoulliNB,0.6601555594838253
+0.5,10,tok stop,CountVectorizer,MultinomialNB,0.7805373873077603
+0.5,10,tok stop,CountVectorizer,BernoulliNB,0.6674916033233163
+0.5,10,tok stop,TfidfVectorizer,MultinomialNB,0.8398444405161747
+0.5,10,tok stop,TfidfVectorizer,BernoulliNB,0.6674916033233163
+0.75,1,tok stop,CountVectorizer,MultinomialNB,0.8058158034293795
+0.75,1,tok stop,CountVectorizer,BernoulliNB,0.6016439809086088
+0.75,1,tok stop,TfidfVectorizer,MultinomialNB,0.8649460844970832
+0.75,1,tok stop,TfidfVectorizer,BernoulliNB,0.6016439809086088
+0.75,2,tok stop,CountVectorizer,MultinomialNB,0.8153614990277532
+0.75,2,tok stop,CountVectorizer,BernoulliNB,0.6399151493724589
+0.75,2,tok stop,TfidfVectorizer,MultinomialNB,0.8629132048789111
+0.75,2,tok stop,TfidfVectorizer,BernoulliNB,0.6399151493724589
+0.75,5,tok stop,CountVectorizer,MultinomialNB,0.8005126392080608
+0.75,5,tok stop,CountVectorizer,BernoulliNB,0.6601555594838253
+0.75,5,tok stop,TfidfVectorizer,MultinomialNB,0.8534558953508927
+0.75,5,tok stop,TfidfVectorizer,BernoulliNB,0.6601555594838253
+0.75,10,tok stop,CountVectorizer,MultinomialNB,0.7805373873077603
+0.75,10,tok stop,CountVectorizer,BernoulliNB,0.6674916033233163
+0.75,10,tok stop,TfidfVectorizer,MultinomialNB,0.8398444405161747
+0.75,10,tok stop,TfidfVectorizer,BernoulliNB,0.6674916033233163
+0.8,1,tok stop,CountVectorizer,MultinomialNB,0.8058158034293795
+0.8,1,tok stop,CountVectorizer,BernoulliNB,0.6016439809086088
+0.8,1,tok stop,TfidfVectorizer,MultinomialNB,0.8649460844970832
+0.8,1,tok stop,TfidfVectorizer,BernoulliNB,0.6016439809086088
+0.8,2,tok stop,CountVectorizer,MultinomialNB,0.8153614990277532
+0.8,2,tok stop,CountVectorizer,BernoulliNB,0.6399151493724589
+0.8,2,tok stop,TfidfVectorizer,MultinomialNB,0.8629132048789111
+0.8,2,tok stop,TfidfVectorizer,BernoulliNB,0.6399151493724589
+0.8,5,tok stop,CountVectorizer,MultinomialNB,0.8005126392080608
+0.8,5,tok stop,CountVectorizer,BernoulliNB,0.6601555594838253
+0.8,5,tok stop,TfidfVectorizer,MultinomialNB,0.8534558953508927
+0.8,5,tok stop,TfidfVectorizer,BernoulliNB,0.6601555594838253
+0.8,10,tok stop,CountVectorizer,MultinomialNB,0.7805373873077603
+0.8,10,tok stop,CountVectorizer,BernoulliNB,0.6674916033233163
+0.8,10,tok stop,TfidfVectorizer,MultinomialNB,0.8398444405161747
+0.8,10,tok stop,TfidfVectorizer,BernoulliNB,0.6674916033233163
+0.95,1,tok stop,CountVectorizer,MultinomialNB,0.8058158034293795
+0.95,1,tok stop,CountVectorizer,BernoulliNB,0.6016439809086088
+0.95,1,tok stop,TfidfVectorizer,MultinomialNB,0.8649460844970832
+0.95,1,tok stop,TfidfVectorizer,BernoulliNB,0.6016439809086088
+0.95,2,tok stop,CountVectorizer,MultinomialNB,0.8153614990277532
+0.95,2,tok stop,CountVectorizer,BernoulliNB,0.6399151493724589
+0.95,2,tok stop,TfidfVectorizer,MultinomialNB,0.8629132048789111
+0.95,2,tok stop,TfidfVectorizer,BernoulliNB,0.6399151493724589
+0.95,5,tok stop,CountVectorizer,MultinomialNB,0.8005126392080608
+0.95,5,tok stop,CountVectorizer,BernoulliNB,0.6601555594838253
+0.95,5,tok stop,TfidfVectorizer,MultinomialNB,0.8534558953508927
+0.95,5,tok stop,TfidfVectorizer,BernoulliNB,0.6601555594838253
+0.95,10,tok stop,CountVectorizer,MultinomialNB,0.7805373873077603
+0.95,10,tok stop,CountVectorizer,BernoulliNB,0.6674916033233163
+0.95,10,tok stop,TfidfVectorizer,MultinomialNB,0.8398444405161747
+0.95,10,tok stop,TfidfVectorizer,BernoulliNB,0.6674916033233163
+0.05,1,tok lem stop stem,CountVectorizer,MultinomialNB,0.8064345059218667
+0.05,1,tok lem stop stem,CountVectorizer,BernoulliNB,0.601113664486477
+0.05,1,tok lem stop stem,TfidfVectorizer,MultinomialNB,0.8677744387484533
+0.05,1,tok lem stop stem,TfidfVectorizer,BernoulliNB,0.601113664486477
+0.05,2,tok lem stop stem,CountVectorizer,MultinomialNB,0.8072299805550646
+0.05,2,tok lem stop stem,CountVectorizer,BernoulliNB,0.6410641682870779
+0.05,2,tok lem stop stem,TfidfVectorizer,MultinomialNB,0.8642389959342408
+0.05,2,tok lem stop stem,TfidfVectorizer,BernoulliNB,0.6410641682870779
+0.05,5,tok lem stop stem,CountVectorizer,MultinomialNB,0.7921159625243062
+0.05,5,tok lem stop stem,CountVectorizer,BernoulliNB,0.6565317305992575
+0.05,5,tok lem stop stem,TfidfVectorizer,MultinomialNB,0.8500972246773908
+0.05,5,tok lem stop stem,TfidfVectorizer,BernoulliNB,0.6565317305992575
+0.05,10,tok lem stop stem,CountVectorizer,MultinomialNB,0.771698780272229
+0.05,10,tok lem stop stem,CountVectorizer,BernoulliNB,0.6652819515644335
+0.05,10,tok lem stop stem,TfidfVectorizer,MultinomialNB,0.8338341877320135
+0.05,10,tok lem stop stem,TfidfVectorizer,BernoulliNB,0.6652819515644335
+0.1,1,tok lem stop stem,CountVectorizer,MultinomialNB,0.7911437157503978
+0.1,1,tok lem stop stem,CountVectorizer,BernoulliNB,0.5981085380943963
+0.1,1,tok lem stop stem,TfidfVectorizer,MultinomialNB,0.8529255789287609
+0.1,1,tok lem stop stem,TfidfVectorizer,BernoulliNB,0.5981085380943963
+0.1,2,tok lem stop stem,CountVectorizer,MultinomialNB,0.8003358670673502
+0.1,2,tok lem stop stem,CountVectorizer,BernoulliNB,0.6376171115432208
+0.1,2,tok lem stop stem,TfidfVectorizer,MultinomialNB,0.8491249779034824
+0.1,2,tok lem stop stem,TfidfVectorizer,BernoulliNB,0.6376171115432208
+0.1,5,tok lem stop stem,CountVectorizer,MultinomialNB,0.7865476400919215
+0.1,5,tok lem stop stem,CountVectorizer,BernoulliNB,0.6522008131518473
+0.1,5,tok lem stop stem,TfidfVectorizer,MultinomialNB,0.8407283012197277
+0.1,5,tok lem stop stem,TfidfVectorizer,BernoulliNB,0.6522008131518473
+0.1,10,tok lem stop stem,CountVectorizer,MultinomialNB,0.7662188439101998
+0.1,10,tok lem stop stem,CountVectorizer,BernoulliNB,0.6608626480466678
+0.1,10,tok lem stop stem,TfidfVectorizer,MultinomialNB,0.8284426374403394
+0.1,10,tok lem stop stem,TfidfVectorizer,BernoulliNB,0.6608626480466678
+0.25,1,tok lem stop stem,CountVectorizer,MultinomialNB,0.7808909315891815
+0.25,1,tok lem stop stem,CountVectorizer,BernoulliNB,0.5974898356019092
+0.25,1,tok lem stop stem,TfidfVectorizer,MultinomialNB,0.8446172883153615
+0.25,1,tok lem stop stem,TfidfVectorizer,BernoulliNB,0.5974898356019092
+0.25,2,tok lem stop stem,CountVectorizer,MultinomialNB,0.7963584939013612
+0.25,2,tok lem stop stem,CountVectorizer,BernoulliNB,0.6332861940958106
+0.25,2,tok lem stop stem,TfidfVectorizer,MultinomialNB,0.8418773201343468
+0.25,2,tok lem stop stem,TfidfVectorizer,BernoulliNB,0.6332861940958106
+0.25,5,tok lem stop stem,CountVectorizer,MultinomialNB,0.7819515644334453
+0.25,5,tok lem stop stem,CountVectorizer,BernoulliNB,0.6465441046491073
+0.25,5,tok lem stop stem,TfidfVectorizer,MultinomialNB,0.8348948205762772
+0.25,5,tok lem stop stem,TfidfVectorizer,BernoulliNB,0.6465441046491073
+0.25,10,tok lem stop stem,CountVectorizer,MultinomialNB,0.7620646986035001
+0.25,10,tok lem stop stem,CountVectorizer,BernoulliNB,0.6567085027399682
+0.25,10,tok lem stop stem,TfidfVectorizer,MultinomialNB,0.8230510871486654
+0.25,10,tok lem stop stem,TfidfVectorizer,BernoulliNB,0.6567085027399682
+0.3,1,tok lem stop stem,CountVectorizer,MultinomialNB,0.7789464380413647
+0.3,1,tok lem stop stem,CountVectorizer,BernoulliNB,0.5988156266572389
+0.3,1,tok lem stop stem,TfidfVectorizer,MultinomialNB,0.8427611808379
+0.3,1,tok lem stop stem,TfidfVectorizer,BernoulliNB,0.5988156266572389
+0.3,2,tok lem stop stem,CountVectorizer,MultinomialNB,0.7956514053385186
+0.3,2,tok lem stop stem,CountVectorizer,BernoulliNB,0.6346119851511401
+0.3,2,tok lem stop stem,TfidfVectorizer,MultinomialNB,0.8405515290790172
+0.3,2,tok lem stop stem,TfidfVectorizer,BernoulliNB,0.6346119851511401
+0.3,5,tok lem stop stem,CountVectorizer,MultinomialNB,0.7808909315891815
+0.3,5,tok lem stop stem,CountVectorizer,BernoulliNB,0.647869895704437
+0.3,5,tok lem stop stem,TfidfVectorizer,MultinomialNB,0.8338341877320135
+0.3,5,tok lem stop stem,TfidfVectorizer,BernoulliNB,0.647869895704437
+0.3,10,tok lem stop stem,CountVectorizer,MultinomialNB,0.7618879264627895
+0.3,10,tok lem stop stem,CountVectorizer,BernoulliNB,0.6567085027399682
+0.3,10,tok lem stop stem,TfidfVectorizer,MultinomialNB,0.8221672264451122
+0.3,10,tok lem stop stem,TfidfVectorizer,BernoulliNB,0.6567085027399682
+0.5,1,tok lem stop stem,CountVectorizer,MultinomialNB,0.7785928937599434
+0.5,1,tok lem stop stem,CountVectorizer,BernoulliNB,0.5987272405868835
+0.5,1,tok lem stop stem,TfidfVectorizer,MultinomialNB,0.8424076365564787
+0.5,1,tok lem stop stem,TfidfVectorizer,BernoulliNB,0.5987272405868835
+0.5,2,tok lem stop stem,CountVectorizer,MultinomialNB,0.7950327028460314
+0.5,2,tok lem stop stem,CountVectorizer,BernoulliNB,0.6339048965882977
+0.5,2,tok lem stop stem,TfidfVectorizer,MultinomialNB,0.8404631430086619
+0.5,2,tok lem stop stem,TfidfVectorizer,BernoulliNB,0.6339048965882977
+0.5,5,tok lem stop stem,CountVectorizer,MultinomialNB,0.7808025455188262
+0.5,5,tok lem stop stem,CountVectorizer,BernoulliNB,0.6477815096340817
+0.5,5,tok lem stop stem,TfidfVectorizer,MultinomialNB,0.8330387130988156
+0.5,5,tok lem stop stem,TfidfVectorizer,BernoulliNB,0.6477815096340817
+0.5,10,tok lem stop stem,CountVectorizer,MultinomialNB,0.7618879264627895
+0.5,10,tok lem stop stem,CountVectorizer,BernoulliNB,0.6562665723881916
+0.5,10,tok lem stop stem,TfidfVectorizer,MultinomialNB,0.8217252960933357
+0.5,10,tok lem stop stem,TfidfVectorizer,BernoulliNB,0.6562665723881916
+0.75,1,tok lem stop stem,CountVectorizer,MultinomialNB,0.7785928937599434
+0.75,1,tok lem stop stem,CountVectorizer,BernoulliNB,0.5987272405868835
+0.75,1,tok lem stop stem,TfidfVectorizer,MultinomialNB,0.8424076365564787
+0.75,1,tok lem stop stem,TfidfVectorizer,BernoulliNB,0.5987272405868835
+0.75,2,tok lem stop stem,CountVectorizer,MultinomialNB,0.7950327028460314
+0.75,2,tok lem stop stem,CountVectorizer,BernoulliNB,0.6339048965882977
+0.75,2,tok lem stop stem,TfidfVectorizer,MultinomialNB,0.8404631430086619
+0.75,2,tok lem stop stem,TfidfVectorizer,BernoulliNB,0.6339048965882977
+0.75,5,tok lem stop stem,CountVectorizer,MultinomialNB,0.7808025455188262
+0.75,5,tok lem stop stem,CountVectorizer,BernoulliNB,0.6477815096340817
+0.75,5,tok lem stop stem,TfidfVectorizer,MultinomialNB,0.8330387130988156
+0.75,5,tok lem stop stem,TfidfVectorizer,BernoulliNB,0.6477815096340817
+0.75,10,tok lem stop stem,CountVectorizer,MultinomialNB,0.7618879264627895
+0.75,10,tok lem stop stem,CountVectorizer,BernoulliNB,0.6562665723881916
+0.75,10,tok lem stop stem,TfidfVectorizer,MultinomialNB,0.8217252960933357
+0.75,10,tok lem stop stem,TfidfVectorizer,BernoulliNB,0.6562665723881916
+0.8,1,tok lem stop stem,CountVectorizer,MultinomialNB,0.7785928937599434
+0.8,1,tok lem stop stem,CountVectorizer,BernoulliNB,0.5987272405868835
+0.8,1,tok lem stop stem,TfidfVectorizer,MultinomialNB,0.8424076365564787
+0.8,1,tok lem stop stem,TfidfVectorizer,BernoulliNB,0.5987272405868835
+0.8,2,tok lem stop stem,CountVectorizer,MultinomialNB,0.7950327028460314
+0.8,2,tok lem stop stem,CountVectorizer,BernoulliNB,0.6339048965882977
+0.8,2,tok lem stop stem,TfidfVectorizer,MultinomialNB,0.8404631430086619
+0.8,2,tok lem stop stem,TfidfVectorizer,BernoulliNB,0.6339048965882977
+0.8,5,tok lem stop stem,CountVectorizer,MultinomialNB,0.7808025455188262
+0.8,5,tok lem stop stem,CountVectorizer,BernoulliNB,0.6477815096340817
+0.8,5,tok lem stop stem,TfidfVectorizer,MultinomialNB,0.8330387130988156
+0.8,5,tok lem stop stem,TfidfVectorizer,BernoulliNB,0.6477815096340817
+0.8,10,tok lem stop stem,CountVectorizer,MultinomialNB,0.7618879264627895
+0.8,10,tok lem stop stem,CountVectorizer,BernoulliNB,0.6562665723881916
+0.8,10,tok lem stop stem,TfidfVectorizer,MultinomialNB,0.8217252960933357
+0.8,10,tok lem stop stem,TfidfVectorizer,BernoulliNB,0.6562665723881916
+0.95,1,tok lem stop stem,CountVectorizer,MultinomialNB,0.7785928937599434
+0.95,1,tok lem stop stem,CountVectorizer,BernoulliNB,0.5987272405868835
+0.95,1,tok lem stop stem,TfidfVectorizer,MultinomialNB,0.8424076365564787
+0.95,1,tok lem stop stem,TfidfVectorizer,BernoulliNB,0.5987272405868835
+0.95,2,tok lem stop stem,CountVectorizer,MultinomialNB,0.7950327028460314
+0.95,2,tok lem stop stem,CountVectorizer,BernoulliNB,0.6339048965882977
+0.95,2,tok lem stop stem,TfidfVectorizer,MultinomialNB,0.8404631430086619
+0.95,2,tok lem stop stem,TfidfVectorizer,BernoulliNB,0.6339048965882977
+0.95,5,tok lem stop stem,CountVectorizer,MultinomialNB,0.7808025455188262
+0.95,5,tok lem stop stem,CountVectorizer,BernoulliNB,0.6477815096340817
+0.95,5,tok lem stop stem,TfidfVectorizer,MultinomialNB,0.8330387130988156
+0.95,5,tok lem stop stem,TfidfVectorizer,BernoulliNB,0.6477815096340817
+0.95,10,tok lem stop stem,CountVectorizer,MultinomialNB,0.7618879264627895
+0.95,10,tok lem stop stem,CountVectorizer,BernoulliNB,0.6562665723881916
+0.95,10,tok lem stop stem,TfidfVectorizer,MultinomialNB,0.8217252960933357
+0.95,10,tok lem stop stem,TfidfVectorizer,BernoulliNB,0.6562665723881916
+0.05,1,tok lem stop stem filt,CountVectorizer,MultinomialNB,0.8143892522538448
+0.05,1,tok lem stop stem filt,CountVectorizer,BernoulliNB,0.6457486300159095
+0.05,1,tok lem stop stem filt,TfidfVectorizer,MultinomialNB,0.8543397560544458
+0.05,1,tok lem stop stem filt,TfidfVectorizer,BernoulliNB,0.6457486300159095
+0.05,2,tok lem stop stem filt,CountVectorizer,MultinomialNB,0.8109421955099876
+0.05,2,tok lem stop stem filt,CountVectorizer,BernoulliNB,0.6726179954039243
+0.05,2,tok lem stop stem filt,TfidfVectorizer,MultinomialNB,0.8501856107477461
+0.05,2,tok lem stop stem filt,TfidfVectorizer,BernoulliNB,0.6726179954039243
+0.05,5,tok lem stop stem filt,CountVectorizer,MultinomialNB,0.7924695068057274
+0.05,5,tok lem stop stem filt,CountVectorizer,BernoulliNB,0.6828707795651405
+0.05,5,tok lem stop stem filt,TfidfVectorizer,MultinomialNB,0.8358670673501856
+0.05,5,tok lem stop stem filt,TfidfVectorizer,BernoulliNB,0.6828707795651405
+0.05,10,tok lem stop stem filt,CountVectorizer,MultinomialNB,0.7757645395085735
+0.05,10,tok lem stop stem filt,CountVectorizer,BernoulliNB,0.6784514760473749
+0.05,10,tok lem stop stem filt,TfidfVectorizer,MultinomialNB,0.8226975428672442
+0.05,10,tok lem stop stem filt,TfidfVectorizer,BernoulliNB,0.6784514760473749
+0.1,1,tok lem stop stem filt,CountVectorizer,MultinomialNB,0.8071415944847092
+0.1,1,tok lem stop stem filt,CountVectorizer,BernoulliNB,0.649284072830122
+0.1,1,tok lem stop stem filt,TfidfVectorizer,MultinomialNB,0.8409050733604384
+0.1,1,tok lem stop stem filt,TfidfVectorizer,BernoulliNB,0.649284072830122
+0.1,2,tok lem stop stem filt,CountVectorizer,MultinomialNB,0.8071415944847092
+0.1,2,tok lem stop stem filt,CountVectorizer,BernoulliNB,0.6709386600671734
+0.1,2,tok lem stop stem filt,TfidfVectorizer,MultinomialNB,0.8394908962347534
+0.1,2,tok lem stop stem filt,TfidfVectorizer,BernoulliNB,0.6709386600671734
+0.1,5,tok lem stop stem filt,CountVectorizer,MultinomialNB,0.7913204878911083
+0.1,5,tok lem stop stem filt,CountVectorizer,BernoulliNB,0.6777443874845325
+0.1,5,tok lem stop stem filt,TfidfVectorizer,MultinomialNB,0.8308290613399328
+0.1,5,tok lem stop stem filt,TfidfVectorizer,BernoulliNB,0.6777443874845325
+0.1,10,tok lem stop stem filt,CountVectorizer,MultinomialNB,0.7763832420010607
+0.1,10,tok lem stop stem filt,CountVectorizer,BernoulliNB,0.6713805904189499
+0.1,10,tok lem stop stem filt,TfidfVectorizer,MultinomialNB,0.8181898532791232
+0.1,10,tok lem stop stem filt,TfidfVectorizer,BernoulliNB,0.6713805904189499
+0.25,1,tok lem stop stem filt,CountVectorizer,MultinomialNB,0.799982322785929
+0.25,1,tok lem stop stem filt,CountVectorizer,BernoulliNB,0.6460137882269754
+0.25,1,tok lem stop stem filt,TfidfVectorizer,MultinomialNB,0.8313593777620647
+0.25,1,tok lem stop stem filt,TfidfVectorizer,BernoulliNB,0.6460137882269754
+0.25,2,tok lem stop stem filt,CountVectorizer,MultinomialNB,0.8020152024041011
+0.25,2,tok lem stop stem filt,CountVectorizer,BernoulliNB,0.6664309704790525
+0.25,2,tok lem stop stem filt,TfidfVectorizer,MultinomialNB,0.8307406752695775
+0.25,2,tok lem stop stem filt,TfidfVectorizer,BernoulliNB,0.6664309704790525
+0.25,5,tok lem stop stem filt,CountVectorizer,MultinomialNB,0.7854870072476577
+0.25,5,tok lem stop stem filt,CountVectorizer,BernoulliNB,0.6701431854339756
+0.25,5,tok lem stop stem filt,TfidfVectorizer,MultinomialNB,0.8242001060632844
+0.25,5,tok lem stop stem filt,TfidfVectorizer,BernoulliNB,0.6701431854339756
+0.25,10,tok lem stop stem filt,CountVectorizer,MultinomialNB,0.7731129573979141
+0.25,10,tok lem stop stem filt,CountVectorizer,BernoulliNB,0.6638677744387484
+0.25,10,tok lem stop stem filt,TfidfVectorizer,MultinomialNB,0.8120912144246066
+0.25,10,tok lem stop stem filt,TfidfVectorizer,BernoulliNB,0.6638677744387484
+0.3,1,tok lem stop stem filt,CountVectorizer,MultinomialNB,0.7980378292381121
+0.3,1,tok lem stop stem filt,CountVectorizer,BernoulliNB,0.6473395792823051
+0.3,1,tok lem stop stem filt,TfidfVectorizer,MultinomialNB,0.830298744917801
+0.3,1,tok lem stop stem filt,TfidfVectorizer,BernoulliNB,0.6473395792823051
+0.3,2,tok lem stop stem filt,CountVectorizer,MultinomialNB,0.8021035884744564
+0.3,2,tok lem stop stem filt,CountVectorizer,BernoulliNB,0.66855223616758
+0.3,2,tok lem stop stem filt,TfidfVectorizer,MultinomialNB,0.8298568145660244
+0.3,2,tok lem stop stem filt,TfidfVectorizer,BernoulliNB,0.66855223616758
+0.3,5,tok lem stop stem filt,CountVectorizer,MultinomialNB,0.7857521654587237
+0.3,5,tok lem stop stem filt,CountVectorizer,BernoulliNB,0.6709386600671734
+0.3,5,tok lem stop stem filt,TfidfVectorizer,MultinomialNB,0.8233162453597314
+0.3,5,tok lem stop stem filt,TfidfVectorizer,BernoulliNB,0.6709386600671734
+0.3,10,tok lem stop stem filt,CountVectorizer,MultinomialNB,0.7721407106240057
+0.3,10,tok lem stop stem filt,CountVectorizer,BernoulliNB,0.6644864769312356
+0.3,10,tok lem stop stem filt,TfidfVectorizer,MultinomialNB,0.8120028283542514
+0.3,10,tok lem stop stem filt,TfidfVectorizer,BernoulliNB,0.6644864769312356
+0.5,1,tok lem stop stem filt,CountVectorizer,MultinomialNB,0.7972423546049142
+0.5,1,tok lem stop stem filt,CountVectorizer,BernoulliNB,0.6472511932119498
+0.5,1,tok lem stop stem filt,TfidfVectorizer,MultinomialNB,0.8295916563549585
+0.5,1,tok lem stop stem filt,TfidfVectorizer,BernoulliNB,0.6472511932119498
+0.5,2,tok lem stop stem filt,CountVectorizer,MultinomialNB,0.800866183489482
+0.5,2,tok lem stop stem filt,CountVectorizer,BernoulliNB,0.66855223616758
+0.5,2,tok lem stop stem filt,TfidfVectorizer,MultinomialNB,0.8295916563549585
+0.5,2,tok lem stop stem filt,TfidfVectorizer,BernoulliNB,0.66855223616758
+0.5,5,tok lem stop stem filt,CountVectorizer,MultinomialNB,0.7853102351069472
+0.5,5,tok lem stop stem filt,CountVectorizer,BernoulliNB,0.6707618879264627
+0.5,5,tok lem stop stem filt,TfidfVectorizer,MultinomialNB,0.82296270107831
+0.5,5,tok lem stop stem filt,TfidfVectorizer,BernoulliNB,0.6707618879264627
+0.5,10,tok lem stop stem filt,CountVectorizer,MultinomialNB,0.771963938483295
+0.5,10,tok lem stop stem filt,CountVectorizer,BernoulliNB,0.6641329326498144
+0.5,10,tok lem stop stem filt,TfidfVectorizer,MultinomialNB,0.8116492840728301
+0.5,10,tok lem stop stem filt,TfidfVectorizer,BernoulliNB,0.6641329326498144
+0.75,1,tok lem stop stem filt,CountVectorizer,MultinomialNB,0.7972423546049142
+0.75,1,tok lem stop stem filt,CountVectorizer,BernoulliNB,0.6472511932119498
+0.75,1,tok lem stop stem filt,TfidfVectorizer,MultinomialNB,0.8295916563549585
+0.75,1,tok lem stop stem filt,TfidfVectorizer,BernoulliNB,0.6472511932119498
+0.75,2,tok lem stop stem filt,CountVectorizer,MultinomialNB,0.800866183489482
+0.75,2,tok lem stop stem filt,CountVectorizer,BernoulliNB,0.66855223616758
+0.75,2,tok lem stop stem filt,TfidfVectorizer,MultinomialNB,0.8295916563549585
+0.75,2,tok lem stop stem filt,TfidfVectorizer,BernoulliNB,0.66855223616758
+0.75,5,tok lem stop stem filt,CountVectorizer,MultinomialNB,0.7853102351069472
+0.75,5,tok lem stop stem filt,CountVectorizer,BernoulliNB,0.6707618879264627
+0.75,5,tok lem stop stem filt,TfidfVectorizer,MultinomialNB,0.82296270107831
+0.75,5,tok lem stop stem filt,TfidfVectorizer,BernoulliNB,0.6707618879264627
+0.75,10,tok lem stop stem filt,CountVectorizer,MultinomialNB,0.771963938483295
+0.75,10,tok lem stop stem filt,CountVectorizer,BernoulliNB,0.6641329326498144
+0.75,10,tok lem stop stem filt,TfidfVectorizer,MultinomialNB,0.8116492840728301
+0.75,10,tok lem stop stem filt,TfidfVectorizer,BernoulliNB,0.6641329326498144
+0.8,1,tok lem stop stem filt,CountVectorizer,MultinomialNB,0.7972423546049142
+0.8,1,tok lem stop stem filt,CountVectorizer,BernoulliNB,0.6472511932119498
+0.8,1,tok lem stop stem filt,TfidfVectorizer,MultinomialNB,0.8295916563549585
+0.8,1,tok lem stop stem filt,TfidfVectorizer,BernoulliNB,0.6472511932119498
+0.8,2,tok lem stop stem filt,CountVectorizer,MultinomialNB,0.800866183489482
+0.8,2,tok lem stop stem filt,CountVectorizer,BernoulliNB,0.66855223616758
+0.8,2,tok lem stop stem filt,TfidfVectorizer,MultinomialNB,0.8295916563549585
+0.8,2,tok lem stop stem filt,TfidfVectorizer,BernoulliNB,0.66855223616758
+0.8,5,tok lem stop stem filt,CountVectorizer,MultinomialNB,0.7853102351069472
+0.8,5,tok lem stop stem filt,CountVectorizer,BernoulliNB,0.6707618879264627
+0.8,5,tok lem stop stem filt,TfidfVectorizer,MultinomialNB,0.82296270107831
+0.8,5,tok lem stop stem filt,TfidfVectorizer,BernoulliNB,0.6707618879264627
+0.8,10,tok lem stop stem filt,CountVectorizer,MultinomialNB,0.771963938483295
+0.8,10,tok lem stop stem filt,CountVectorizer,BernoulliNB,0.6641329326498144
+0.8,10,tok lem stop stem filt,TfidfVectorizer,MultinomialNB,0.8116492840728301
+0.8,10,tok lem stop stem filt,TfidfVectorizer,BernoulliNB,0.6641329326498144
+0.95,1,tok lem stop stem filt,CountVectorizer,MultinomialNB,0.7972423546049142
+0.95,1,tok lem stop stem filt,CountVectorizer,BernoulliNB,0.6472511932119498
+0.95,1,tok lem stop stem filt,TfidfVectorizer,MultinomialNB,0.8295916563549585
+0.95,1,tok lem stop stem filt,TfidfVectorizer,BernoulliNB,0.6472511932119498
+0.95,2,tok lem stop stem filt,CountVectorizer,MultinomialNB,0.800866183489482
+0.95,2,tok lem stop stem filt,CountVectorizer,BernoulliNB,0.66855223616758
+0.95,2,tok lem stop stem filt,TfidfVectorizer,MultinomialNB,0.8295916563549585
+0.95,2,tok lem stop stem filt,TfidfVectorizer,BernoulliNB,0.66855223616758
+0.95,5,tok lem stop stem filt,CountVectorizer,MultinomialNB,0.7853102351069472
+0.95,5,tok lem stop stem filt,CountVectorizer,BernoulliNB,0.6707618879264627
+0.95,5,tok lem stop stem filt,TfidfVectorizer,MultinomialNB,0.82296270107831
+0.95,5,tok lem stop stem filt,TfidfVectorizer,BernoulliNB,0.6707618879264627
+0.95,10,tok lem stop stem filt,CountVectorizer,MultinomialNB,0.771963938483295
+0.95,10,tok lem stop stem filt,CountVectorizer,BernoulliNB,0.6641329326498144
+0.95,10,tok lem stop stem filt,TfidfVectorizer,MultinomialNB,0.8116492840728301
+0.95,10,tok lem stop stem filt,TfidfVectorizer,BernoulliNB,0.6641329326498144

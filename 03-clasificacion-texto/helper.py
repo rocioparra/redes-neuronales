@@ -36,6 +36,8 @@ def autosave(fmt, extension='p'):
 
 
 def print_list(l):
-    print(f"""['{r"', '".join(l)}']""")
+    print(f"""['{r"', '".join(l)}']""") # espero que no esten viendo esto, ya sé que es feo, por
+                                        # algún motivo se me imprimía cada palabra en una línea 
+                                        # distinta, y quedaba demasiado largo ))):
     print(f"Palabras totales: {len(l)}")
     print(f"Palabras distintas: {len(set(l))}")
